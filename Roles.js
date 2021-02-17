@@ -45,7 +45,7 @@ function Roles() {
                         {
                             roles.map((r,i)=>{
                                 return(
-                                    <tr>
+                                    <tr key={r.id}>
                                         <td>{i+1}</td>
                                         <td>{r.Name}</td>
                                         <td>{r.Desc}</td>
