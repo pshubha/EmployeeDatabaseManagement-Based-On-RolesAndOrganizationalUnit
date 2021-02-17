@@ -1,5 +1,7 @@
 # EmployeeDatabaseManagement-Based-On-RolesAndOrganizationalUnit
 
+Note.: Except App.js other file recommended to keep in Project folder.
+
 1. Application Start with App.js
 
 2. Login Page: Default Username and Password is provided for admin login
