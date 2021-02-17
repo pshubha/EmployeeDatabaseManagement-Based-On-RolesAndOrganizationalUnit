@@ -16,6 +16,6 @@ Note.: Except App.js other file recommended to keep in Project folder.
 
 5. If you click on Roles , same as organization after adding data at roles it will be stored at localStorage, everytime data will be update at localstorage as per changes.
 
-6. After clicking employee, you'll be able to access employee and add new employee. As per oraganization and roles if you add employee in perticular organization size of organizational unit will increase that changes you'll seen in organization data.
+6. After clicking employee, you'll be able to access employee and add new employee. As per oraganization and roles if you add employee in perticular organization size of organizational unit will increase that changes you can see in organization data list.
 
 7. You are also able delete data at employee , organization and roles.
